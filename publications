@@ -1,0 +1,33 @@
+  
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lin Meixia</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+        		<li><a href="/publications">Publications</a></li>
+        		<li><a href="/conference">Conference</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Lin Meixia 林媚霞</h1>
+				<p>Lin Meixia, Ph.D.,</p>
+				<p>Department of Mathematics</p>
+		                <p>National University of Singapore</p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li>Email: matlinm@nus.edu.sg</a></li>
+			<li>lin_meixia@u.nus.edu</a></li>
+			<li>meixia.lin.math@gmail.com</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
