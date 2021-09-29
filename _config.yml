@@ -1,56 +1,28 @@
-# Site settings
 title: Meixia LIN
 baseurl: "/homepage"
 url: "linmeixia.github.io"
 google_analytics: 
 
-# Author
 author:
   name: Meixia LIN (林媚霞)
   desc: Nice to meet you.
   email: linmx@nus.edu.sg  or  meixia.lin.math@gmail.com
   selfie: assets/img/lmx.jpg
 
-# social
 social:
   email: true
-#   behance:
-#   bitbucket:
-#   dribbble:
-#   facebook: Test
-#   flickr:
-#  google_scholar: 
   github: linmeixia
-#   google_plus:
-#   instagram:
-#   keybase:
-#   linkedin: 
-#   pinterest:
-#   reddit: 
-#   soundcloud:
-#   stack_exchange:
-#   steam:
-#   tumblr:
-#   gitlab:
-#   twitter: Test
-#   vimeo:
-#   wordpress:
-#   youtube:
   default_txt: "Follow On"
 
-# Build settings
 markdown: kramdown
 
-# Assets
 sass:
   sass_dir: _sass
   style: compressed
 
-# Gems
 plugins:
   - jekyll-paginate
 
-# Permalinks
 permalink: /:year-:month-:day/:title
 paginate_path: "/portfolio/page:num/"
 paginate: 5
