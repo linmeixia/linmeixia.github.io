@@ -1,40 +1,41 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+title: Meixia LIN
+baseurl: "/homepage"
+url: "linmeixia.github.io"
+google_analytics: 
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  name: Meixia LIN (林媚霞)
+  desc: Nice to meet you.
+  email: linmx@nus.edu.sg  or  meixia.lin.math@gmail.com
+  selfie: assets/img/lmx.jpg
 
 # social
 social:
   email: true
-  behance:
-  bitbucket:
-  dribbble:
-  facebook: Test
-  flickr:
-  github: kssim
-  google_plus:
-  instagram:
-  keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:
-  steam:
-  tumblr:
-  gitlab:
-  twitter: Test
-  vimeo:
-  wordpress:
-  youtube:
+#   behance:
+#   bitbucket:
+#   dribbble:
+#   facebook: Test
+#   flickr:
+#  google_scholar: 
+  github: linmeixia
+#   google_plus:
+#   instagram:
+#   keybase:
+#   linkedin: 
+#   pinterest:
+#   reddit: 
+#   soundcloud:
+#   stack_exchange:
+#   steam:
+#   tumblr:
+#   gitlab:
+#   twitter: Test
+#   vimeo:
+#   wordpress:
+#   youtube:
   default_txt: "Follow On"
 
 # Build settings
