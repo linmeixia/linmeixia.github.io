@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-<h3>Preprints</h3>
+<h4>Preprints</h4>
 
 <sup>+</sup> equal contribution; <sup>*</sup> corresponding author.
  
@@ -15,7 +15,8 @@ nav: true
 3. Meixia Lin, Defeng Sun, Kim-Chuan Toh, and Chengjing Wang<sup>*</sup>, <strong>Estimation of sparse Gaussian graphical models with hidden clustering structure</strong>, 2020. (arXiv: 2004.08115)
  
 
-<h3>Publications</h3>
+
+<h4>Publications</h4>
 
 <sup>+</sup> equal contribution; <sup>*</sup> corresponding author.
 
