@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 description: Email. linmx@nus.edu.sg or meixia.lin.math@gmail.com
