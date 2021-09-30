@@ -19,7 +19,7 @@ nav: true
 
 <h4>Publications</h4>
 
-1. Rémi Bardenet<sup>+</sup>, Subhroshekhar Ghosh<sup>+</sup>, and Meixia Lin<sup>+*</sup>, <strong>Determinantal point processes based on orthogonal polynomials for sampling minibatches in SGD</strong>, in Conference on Neural Information Processing Systems (NeurIPS), 2021. (<font color='red'>Spotlight</font> presentation, less than 3% acceptance rate)
+1. Rémi Bardenet<sup>+</sup>, Subhroshekhar Ghosh<sup>+</sup>, and Meixia Lin<sup>+*</sup>, <strong>Determinantal point processes based on orthogonal polynomials for sampling minibatches in SGD</strong>, in Conference on Neural Information Processing Systems (NeurIPS), 2021. (<span style="color:red">cardinals</span> presentation, less than 3% acceptance rate)
 2. Meixia Lin<sup>*</sup>, Defeng Sun, and Kim-Chuan Toh, <strong>An augmented Lagrangian method with constraint generation for shape-constrained convex regression problems</strong>, Mathematical Programming Computation, in print, 2021.
 3. Meixia Lin<sup>*</sup>, Yong-Jin Liu, Defeng Sun, and Kim-Chuan Toh, <strong>Efficient sparse semismooth Newton methods for the clustered lasso problem</strong>, SIAM Journal on Optimization, 29 (2019), pp. 2026--2052.
 
