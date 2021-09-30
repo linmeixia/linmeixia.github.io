@@ -1,12 +1,11 @@
 ---
 layout: page
-title: submenus
+title: Research
 nav: true
 dropdown: true
 children: 
-    - title: publications
+    - title: Publications
       permalink: /publications/
-    - title: divider
-    - title: projects
+    - title: Professional activities
       permalink: /projects/
 ---
