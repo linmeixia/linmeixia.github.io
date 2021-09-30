@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-description: Email. <linmx@nus.edu.sg> or <meixia.lin.math@gmail.com>
+description: Email. linmx@nus.edu.sg or meixia.lin.math@gmail.com
 
 profile:
   align: right
@@ -22,7 +22,7 @@ I am currently a research fellow in Institute of Operations Research and Analyti
 
 &nbsp;
 
-My current research is 
+Current research interests:
 * Algorithm design for large-scale optimization problems in data science
 * Convex regression problems
 * Signal processing
