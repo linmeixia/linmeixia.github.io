@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#">Affiliations</a>. #08-23, Block S17, 10 Lower Kent Ridge Road, Singapore, 119076
 
 profile:
   align: right
   image: lmx.jpg
-  address: >
-    <p>#08-23, Block S17 </p>
-    <p>10 Lower Kent Ridge Road</p>
-    <p>Singapore, 119076</p>
+#  address: >
+#    <p>#08-23, Block S17 </p>
+#    <p>10 Lower Kent Ridge Road</p>
+#    <p>Singapore, 119076</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
