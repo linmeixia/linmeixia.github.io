@@ -3,6 +3,7 @@ layout: page
 permalink: /activities/
 title: Professional activities
 description: 
+mysort: c
 nav: true
 ---
 
