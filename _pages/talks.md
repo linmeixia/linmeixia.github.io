@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Activities/
+permalink: /activities/
 title: Professional activities
 description: 
 nav: true
