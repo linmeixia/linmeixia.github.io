@@ -6,7 +6,6 @@ description:
 nav: true
 ---
 
-<hr>
 
 <h3>Preprints</h3>
 
@@ -21,8 +20,6 @@ nav: true
 
 </ol>
 
-
-<hr>
 
 <h3>Publications</h3>
 
