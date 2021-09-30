@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Address: #08-23, Block S17, 10 Lower Kent Ridge Road, Singapore, 119076
+description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
