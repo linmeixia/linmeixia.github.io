@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-## **Preprints**:
+**Preprints**:
 
 <sup>+</sup> equal contribution; <sup>*</sup> corresponding author.
 
