@@ -1,10 +1,10 @@
 ---
 layout: page
+permalink: /publications/
 title: Publications
-permalink: /re/
-description: A growing collection of your cool projects.
+description: 
 nav: true
 ---
 
+* aa
 
-aa
