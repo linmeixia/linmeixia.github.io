@@ -12,11 +12,15 @@ profile:
     <p>10 Lower Kent Ridge Road</p>
     <p>Singapore, 119076</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am currently a research fellow in Institute of Operations Research and Analytics at National University of Singapore, working with Professor Kim-Chuan Toh and Professor Subhroshekhar Ghosh. Previously, I was a research fellow at Department of Mathematics, National University of Singapore, hosted by Professor Kim-Chuan Toh. I completed my Ph.D. in mathematics at National University of Singapore, where I was co-advised by Professor Kim-Chuan Toh and Professor Chao Zhou. Previously, I graduated from Nanjing University in 2016 with a B.S. in Information and Computing Science.
 
 My current research is 
+* Algorithm design for large-scale optimization problems in data science
+* Convex regression problems
+* Signal processing
+* Stochastic optimization
