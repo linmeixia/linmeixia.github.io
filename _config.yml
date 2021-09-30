@@ -14,8 +14,9 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-# icon: 🔥 #  the emoji used as the favicon
-icon: lmx.ico
+icon: 🔥 #  the emoji used as the favicon
+use_custom_favicon: false # if this is true, you can set favicon path instead of using default emoji
+
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
