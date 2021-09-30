@@ -7,5 +7,5 @@ children:
     - title: Publications
       permalink: /publications/
     - title: Professional activities
-      permalink: /projects/
+      permalink: /activities/
 ---
