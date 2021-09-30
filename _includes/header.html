@@ -42,40 +42,34 @@
             </a>
           </li>
           {% endif %}
-          <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
-          {% for p in sorted_pages %}
-          {% if p.nav and p.autogen == nil %}
-          {% if p.dropdown %}
-          <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                {{ p.title }}
-                {% if page.title == p.title %}
+          <!-- Research -->
+          <li class="nav-item {% if page.title == 'research' %}active{% endif %}">
+            <a class="nav-link" href="{{ Research.url | relative_url }}">
+              Research
+              {% if page.title == "research" %}
                 <span class="sr-only">(current)</span>
-                {% endif %}
-              </a>
-              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              {% for child in p.children %}
-              {% if child.title == 'divider' %}
-                <div class="dropdown-divider"></div>
-              {% else %}
-                <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
               {% endif %}
-              {% endfor %}
-              </div>
+            </a>
           </li>
-          {% else %}
-          <li class="nav-item {% if page.title == p.title %}active{% endif %}">
-              <a class="nav-link" href="{{ p.url | relative_url }}">
-                {{ p.title }}
-                {% if page.title == p.title %}
+          <!-- Teaching -->
+          <li class="nav-item {% if page.title == 'teaching' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              Teaching
+              {% if page.title == "teaching" %}
                 <span class="sr-only">(current)</span>
-                {% endif %}
-              </a>
+              {% endif %}
+            </a>
           </li>
-          {% endif %}
-          {% endif %}
-          {% endfor %}
+          <!-- Professional activities -->
+          <li class="nav-item {% if page.title == 'activities' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/' | relative_url }}">
+              Professional activities
+              {% if page.title == "activities" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+            
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
