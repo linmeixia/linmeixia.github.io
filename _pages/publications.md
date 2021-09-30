@@ -25,6 +25,16 @@ nav: true
 3. Meixia Lin<sup>*</sup>, Yong-Jin Liu, Defeng Sun, and Kim-Chuan Toh, **Efficient sparse semismooth Newton methods for the clustered lasso problem**, SIAM Journal on Optimization, 29 (2019), pp. 2026--2052.
 
 
+<hr>
 
+<h2>Publications</h2>
+
+<ol>
+<li><p>Rémi Bardenet<sup>+</sup>, Subhroshekhar Ghosh<sup>+</sup>, and Meixia Lin<sup>+*</sup>, <strong>Determinantal point processes based on orthogonal polynomials for sampling minibatches in SGD</strong>, in Conference on Neural Information Processing Systems (NeurIPS), 2021. (<strong>Spotlight</strong> presentation, less than 3% acceptance rate)</p>
+
+<li><p>Meixia Lin<sup>*</sup>, Defeng Sun, and Kim-Chuan Toh, <strong>An augmented Lagrangian method with constraint generation for shape-constrained convex regression problems</strong>, Mathematical Programming Computation, in print, 2021.</p></li>
+  
+<li><p>Meixia Lin<sup>*</sup>, Yong-Jin Liu, Defeng Sun, and Kim-Chuan Toh, <strong>Efficient sparse semismooth Newton methods for the clustered lasso problem</strong>, SIAM Journal on Optimization, 29 (2019), pp. 2026--2052.</p></li>
+</ol>
 
 
