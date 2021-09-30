@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-<h4>Minisymposium Organizer in International Conferences</h4>
+<h4>Minisymposium Organizer in Conferences</h4>
 1. Chair, Minisymposium on "Recent Advances in Structured Non-Smooth Optimization" (virtual), SIAM Conference on Optimization 2021 (OP21), Jul. 20--23, 2021.
 
 <h4>Invited Talks</h4>
