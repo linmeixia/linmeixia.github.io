@@ -12,9 +12,8 @@ nav: true
 <h4>Preprints</h4>
 
 1. <a href="https://subhro-ghosh.github.io/" style="color: black; text-decoration: underline;"> Subhroshekhar Ghosh</a>, Meixia Lin<sup>*</sup>, and Dongfang Sun, <strong>Signal analysis via the stochastic geometry of spectrogram level sets</strong>, 2021.
-2. Meixia Lin, Yancheng Yuan<sup>*</sup>, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="color: black; text-decoration: underline;"> Defeng Sun</a>, and <a href="https://blog.nus.edu.sg/mattohkc/" style="color: black; text-decoration: underline;"> Kim-Chuan Toh</a>, <strong>Adaptive sieving with PPDNA: Generating solution paths of exclusive lasso models</strong>, 2020. (arXiv: 2009.08719)
+2. Meixia Lin, <a href="https://sites.google.com/site/yuanyanchengpaul/home" style="color: black; text-decoration: underline;"> Yancheng Yuan</a><sup>*</sup>, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="color: black; text-decoration: underline;"> Defeng Sun</a>, and <a href="https://blog.nus.edu.sg/mattohkc/" style="color: black; text-decoration: underline;"> Kim-Chuan Toh</a>, <strong>Adaptive sieving with PPDNA: Generating solution paths of exclusive lasso models</strong>, 2020. (arXiv: 2009.08719)
 3. Meixia Lin, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="color: black; text-decoration: underline;"> Defeng Sun</a>, <a href="https://blog.nus.edu.sg/mattohkc/" style="color: black; text-decoration: underline;"> Kim-Chuan Toh</a>, and Chengjing Wang<sup>*</sup>, <strong>Estimation of sparse Gaussian graphical models with hidden clustering structure</strong>, 2020. (arXiv: 2004.08115)
-
 
 
 <h4>Publications</h4>
