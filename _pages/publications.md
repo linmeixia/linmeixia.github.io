@@ -7,7 +7,7 @@ mysort: a
 nav: true
 ---
 
-<sup>+</sup> equal contribution; <sup>*</sup> corresponding author.
+<sup>+</sup> equal contribution or alphabetical order; <sup>*</sup> corresponding author.
 
 <h4>Preprints</h4>
 
