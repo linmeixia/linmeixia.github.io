@@ -24,7 +24,7 @@ I am currently a research fellow in Institute of Operations Research and Analyti
 
 This is my [[CV]({{ site.url }}/assets/pdf/LinMeixia_CV.pdf)].
 
-Current research interests:
+#### Current research interests: ####
 * Algorithm design for large-scale optimization problems in data science
 * Convex regression problems
 * Signal processing
