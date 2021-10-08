@@ -8,7 +8,7 @@ nav: true
 ---
 
 - Teaching Assistant in Department of Mathematics, National University of Singapore\
-  (<strong>Top Graduate Tutors</strong>)   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   Aug. 2017 - May. 2020
+  (<strong>Top Graduate Tutors</strong>), Aug. 2017 - May. 2020
   
     - DSA3102 Convex Optimization, Semester 2 2019/2020
     - MA1301 Introductory Mathematics, Semester 1 2018/2019 and Semester 1 2019/2020
