@@ -17,3 +17,7 @@ nav: true
 4. "Efficient sparse semismooth Newton methods for the clustered lasso problem", Workshop on Matrix Optimization 2019, Beijing, China, Nov. 29--30, 2019.
 5. "A dual Newton based preconditioned proximal point algorithm for exclusive lasso models", The Sixth International Conference on Continuous Optimization, Berlin, Germany, Aug. 3--8, 2019.
 6. "Efficient sparse semismooth Newton methods for the clustered lasso problem ", International Symposium on Mathematical Programming 2018, Bordeaux, France, Jul. 1--6, 2018.
+
+<h4>Consulting project</h4>
+1. Tokopedia, Jan. 2022--Present.
+
