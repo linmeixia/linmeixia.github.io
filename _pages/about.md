@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
-description: Email. linmx@nus.edu.sg or meixia.lin.math@gmail.com
+description: Email. meixia_lin@sutd.edu.sg or meixia.lin.math@gmail.com
 
 profile:
   align: right
