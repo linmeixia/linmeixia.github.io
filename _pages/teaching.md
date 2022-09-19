@@ -10,6 +10,7 @@ nav: true
 - Engineering Systems and Design, Singapore University of Technology and Design, Jun. 2022 - Present
   
     - 40.016 The Analytics Edge, Summer 2022
+    - 10.022 Modelling Uncertainty
 
 
 <br/>
