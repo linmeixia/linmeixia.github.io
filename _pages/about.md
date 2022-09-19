@@ -31,3 +31,13 @@ This is my [[CV]({{ site.url }}/assets/pdf/CV_MeixiaLIN.pdf)].
 * Convex regression problems
 * Signal processing
 * Stochastic optimization
+
+&nbsp;
+
+##### Open Positions #####
+* I am looking for PhD applicants with strong backgrounds in optimization, fully-supported by <a href="https://sutd.edu.sg/Admissions/Graduate/Scholarships" style="text-decoration: underline;"> SUTD</a> / <a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/" style="text-decoration: underline;"> AISG</a> / <a href="https://aisingapore.org/research/aisg-phd-fellowship-programme/" style="text-decoration: underline;"> SINGA</a> scholarship.
+* I am looking for students and visiting scholars with strong interests in the area of optimization, data science and machine learning.
+* I am recruiting research assistants and research interns with relevant research experience on numerical optimization.
+
+&nbsp;
+Please contact me via email if you are interested to work with me at SUTD.
