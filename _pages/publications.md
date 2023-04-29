@@ -11,8 +11,11 @@ nav: true
 
 <h4>Preprints</h4>
 
-1. Meixia Lin, <a href="https://sites.google.com/site/yuanyanchengpaul/home" style="text-decoration: underline;"> Yancheng Yuan</a><sup>*</sup>, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="text-decoration: underline;"> Defeng Sun</a>, and <a href="https://blog.nus.edu.sg/mattohkc/" style="text-decoration: underline;"> Kim-Chuan Toh</a>, <strong>Adaptive sieving with PPDNA: Generating solution paths of exclusive lasso models</strong>, 2020. (arXiv: 2009.08719)
-2. Meixia Lin, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="text-decoration: underline;"> Defeng Sun</a>, <a href="https://blog.nus.edu.sg/mattohkc/" style="text-decoration: underline;"> Kim-Chuan Toh</a>, and Chengjing Wang<sup>*</sup>, <strong>Estimation of sparse Gaussian graphical models with hidden clustering structure</strong>, 2020. (arXiv: 2004.08115)
+1. <a href="https://blog.nus.edu.sg/matcz/" style="text-decoration: underline;"> Zhenning Cai</a>, <a href="https://linbopeter.github.io/" style="text-decoration: underline;"> Bo Lin</a><sup>*</sup>, and Meixia Lin, <strong>A positive and moment-preserving Fourier spectral method</strong>, 2023. 
+2. Meixia Lin, and <a href="https://sites.google.com/view/yangjingzhang/" style="text-decoration: underline;"> Yangjing Zhang</a><sup>*</sup>, <strong>DNNLasso: Scalable graph learning for matrix-variate data</strong>, 2023. 
+3. Meixia Lin<sup>+</sup>, <a href="https://sites.google.com/site/yuanyanchengpaul/home" style="text-decoration: underline;"> Yancheng Yuan</a><sup>+</sup>, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="text-decoration: underline;"> Defeng Sun</a><sup>*</sup>, and <a href="https://blog.nus.edu.sg/mattohkc/" style="text-decoration: underline;"> Kim-Chuan Toh</a>, <strong>A Highly Efficient Algorithm for Solving Exclusive Lasso Problems</strong>, 2022. 
+4. Meixia Lin, <a href="https://sites.google.com/site/yuanyanchengpaul/home" style="text-decoration: underline;"> Yancheng Yuan</a><sup>*</sup>, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="text-decoration: underline;"> Defeng Sun</a>, and <a href="https://blog.nus.edu.sg/mattohkc/" style="text-decoration: underline;"> Kim-Chuan Toh</a>, <strong>Adaptive sieving with PPDNA: Generating solution paths of exclusive lasso models</strong>, 2020. (arXiv: 2009.08719)
+5. Meixia Lin, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="text-decoration: underline;"> Defeng Sun</a>, <a href="https://blog.nus.edu.sg/mattohkc/" style="text-decoration: underline;"> Kim-Chuan Toh</a>, and Chengjing Wang<sup>*</sup>, <strong>Estimation of sparse Gaussian graphical models with hidden clustering structure</strong>, 2020. (arXiv: 2004.08115)
 
 
 <h4>Publications</h4>
