@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am currently an Assistant Professor in the Engineering Systems and Design Pillar at the Singapore University of Technology and Design. I received my Ph.D. in Optimization from National University of Singapore in 2020 under the supervision of Professors <a href="https://blog.nus.edu.sg/mattohkc/" style="text-decoration: underline;"> Kim-Chuan Toh</a> and <a href="https://matzc.github.io/" style="text-decoration: underline;"> Chao Zhou</a>. Prior to joining SUTD in summer 2022, I held Research Fellow positions in Department of Mathematics and Institute of Operations Research and Analytics at National University of Singapore, hosted by Professors <a href="https://blog.nus.edu.sg/mattohkc/" style="text-decoration: underline;"> Kim-Chuan Toh</a> and <a href="https://subhro-ghosh.github.io/" style="text-decoration: underline;"> Subhroshekhar Ghosh</a>. I obtained my B.S. in Information and Computing Science from Nanjing University.
 
-This is my [[CV]({{ site.url }}/assets/pdf/CV_MeixiaLIN.pdf)].
+
 
 &nbsp;
 
