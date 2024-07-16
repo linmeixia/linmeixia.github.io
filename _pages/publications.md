@@ -18,7 +18,8 @@ nav: true
 
 <h4>Publications in Refereed Scientific Journals</h4>
 
-1. Zhenning Cai, Bo Lin<sup>*</sup> , and Meixia Lin, <a href="https://epubs.siam.org/doi/10.1137/23M1563918" style="text-decoration: underline;"> A positive and moment-preserving Fourier spectral method</a>, *SIAM Journal on Numerical Analysis*, 2024, Vol. 62(1), pp. 273--294.
+1. <a href="https://sites.google.com/site/yuanyanchengpaul/home" style="text-decoration: underline;"> Yancheng Yuan</a><sup>+</sup>, Meixia Lin<sup>+</sup>, <a href="https://www.polyu.edu.hk/ama/profile/dfsun/" style="text-decoration: underline;"> Defeng Sun</a><sup>*</sup>, and <a href="https://blog.nus.edu.sg/mattohkc/" style="text-decoration: underline;"> Kim-Chuan Toh</a>, <strong>Adaptive sieving: A dimension reduction technique for sparse optimization problems</strong>, 2023.
+2. Zhenning Cai, Bo Lin<sup>*</sup> , and Meixia Lin, <a href="https://epubs.siam.org/doi/10.1137/23M1563918" style="text-decoration: underline;"> A positive and moment-preserving Fourier spectral method</a>, *SIAM Journal on Numerical Analysis*, 2024, Vol. 62(1), pp. 273--294.
 
 
 
