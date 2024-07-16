@@ -20,6 +20,7 @@ nav: true
 
 1. Zhenning Cai, Bo Lin<sup>*</sup>, and <strong>Meixia Lin</strong>, <a href="https://epubs.siam.org/doi/10.1137/23M1563918" style="text-decoration: underline;"> A positive and moment-preserving Fourier spectral method</a>, _SIAM Journal on Numerical Analysis_, 2024, Vol. 62(1), pp. 273--294.
 2. <strong>Meixia Lin</strong><sup>+</sup>, Yancheng Yuan<sup>+</sup>, Defeng Sun<sup>*</sup>, and Kim-Chuan Toh, <a href="https://www.tandfonline.com/doi/full/10.1080/10556788.2023.2253356" style="text-decoration: underline;"> A highly efficient algorithm for solving exclusive lasso problems</a>, _Optimization Methods and Software_, 2023, pp. 1--30.
+3. Subhroshekhar Ghosh, <strong>Meixia Lin</strong><sup>*</sup>, and Dongfang Sun, <a href="https://ieeexplore.ieee.org/document/9720125" style="text-decoration: underline;"> Signal analysis via the stochastic geometry of spectrogram level sets</a>, _IEEE Transactions on Signal Processing_, 2022, Vol. 70, pp. 1104--1117.
 
 
 
