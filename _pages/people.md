@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /people/
+title: People
 description: 
 mysort: a
 nav: true
