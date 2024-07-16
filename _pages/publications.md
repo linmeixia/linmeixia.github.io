@@ -18,7 +18,7 @@ nav: true
 
 <h4>Publications in Refereed Scientific Journals</h4>
 
-1. Zhenning Cai, Bo Lin<sup>*</sup>, and Meixia Lin, <strong>A positive and moment-preserving Fourier spectral method</strong>, 2023.
+1. Zhenning Cai, Bo Lin<sup>*</sup>, and Meixia Lin, <a href="https://epubs.siam.org/doi/10.1137/23M1563918" style="text-decoration: underline;"> A positive and moment-preserving Fourier spectral method</a>, 2023.
 2. Zhenning Cai, Bo Lin<sup>*</sup> , and Meixia Lin, <a href="https://epubs.siam.org/doi/10.1137/23M1563918" style="text-decoration: underline;"> A positive and moment-preserving Fourier spectral method</a>, *SIAM Journal on Numerical Analysis*, 2024, Vol. 62(1), pp. 273--294.
 
 
