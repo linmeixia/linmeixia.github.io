@@ -29,6 +29,6 @@ nav: true
 
 <h4>Publications in Conference Proceedings</h4>
 
-1. <a href="https://rbardenet.github.io/" style="text-decoration: underline;"> Rémi Bardenet</a><sup>+</sup>, <a href="https://subhro-ghosh.github.io/" style="text-decoration: underline;"> Subhroshekhar Ghosh</a><sup>+*</sup>, and Meixia Lin<sup>+*</sup>, <strong>Determinantal point processes based on orthogonal polynomials for sampling minibatches in SGD</strong>, in Conference on Neural Information Processing Systems (NeurIPS), 2021. (<span style="color:red">Spotlight</span> presentation, less than 3% acceptance rate)
+1. Rémi Bardenet<sup>+</sup>, Subhroshekhar Ghosh<sup>+*</sup>, and Meixia Lin<sup>+*</sup>, <a href="https://dl.acm.org/doi/10.5555/3540261.3541502" style="text-decoration: underline;"> Determinantal point processes based on orthogonal polynomials for sampling minibatches in SGD</a>, Conference on Neural Information Processing Systems (NeurIPS), 2021. (<span style="color:red">Spotlight</span> presentation, less than 3% acceptance rate)
 
 
