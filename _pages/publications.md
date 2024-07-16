@@ -31,8 +31,8 @@ nav: true
 
 <h4>Publications in Conference Proceedings</h4>
 
-1. <strong>Meixia Lin</strong>, and Yangjing Zhang<sup>*</sup>, <a href="https://proceedings.mlr.press/v238/lin24b.html" style="text-decoration: underline;"> DNNLasso: Scalable graph learning for matrix-variate data</a>, International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. <a href="https://github.com/YangjingZhang/DNNLasso" style="text-decoration: underline;">[code]</a>
-2. Rémi Bardenet<sup>+</sup>, Subhroshekhar Ghosh<sup>+*</sup>, and <strong>Meixia Lin</strong><sup>+*</sup>, <a href="https://dl.acm.org/doi/10.5555/3540261.3541502" style="text-decoration: underline;"> Determinantal point processes based on orthogonal polynomials for sampling minibatches in SGD</a>, Conference on Neural Information Processing Systems (NeurIPS), 2021. (<span style="color:red">Spotlight</span> presentation, less than 3% acceptance rate)
+1. <strong>Meixia Lin</strong>, and Yangjing Zhang<sup>*</sup>, <a href="https://proceedings.mlr.press/v238/lin24b.html" style="text-decoration: underline;"> DNNLasso: Scalable graph learning for matrix-variate data</a>, International Conference on Artificial Intelligence and Statistics (AISTATS), 2024. <a href="https://github.com/YangjingZhang/DNNLasso" style="text-decoration: underline;">[code]</a> (arXiv:2403.02608)
+2. Rémi Bardenet<sup>+</sup>, Subhroshekhar Ghosh<sup>+*</sup>, and <strong>Meixia Lin</strong><sup>+*</sup>, <a href="https://dl.acm.org/doi/10.5555/3540261.3541502" style="text-decoration: underline;"> Determinantal point processes based on orthogonal polynomials for sampling minibatches in SGD</a>, Conference on Neural Information Processing Systems (NeurIPS), 2021. (<span style="color:red">Spotlight</span> presentation, less than 3% acceptance rate) (arXiv:2112.06007)
    
 
 
