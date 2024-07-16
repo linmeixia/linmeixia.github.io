@@ -10,7 +10,7 @@ nav: true
 - Engineering Systems and Design, Singapore University of Technology and Design, Jun. 2022 - Present
   
     - 40.319 Statistical and Machine Learning, Spring 2023
-    - 10.022 Modelling Uncertainty, Autumn 2022
+    - 10.022 Modelling Uncertainty, Autumn 2022, Autumn 2023
     - 40.016 The Analytics Edge, Summer 2022
 
 
