@@ -11,7 +11,7 @@ nav: true
 
 <h4>Preprints</h4>
 
-1. <strong>Meixia Lin</strong>, Yangjing Zhang<sup>*</sup>, and Ziyang Zeng, Multivariate regression for matrix and vector predictors: Models, theory, algorithms, and beyond, submitted, 2024.
+1. <strong>Meixia Lin</strong>, Ziyang Zeng, and Yangjing Zhang<sup>*</sup>, Multivariate regression for matrix and vector predictors: Models, theory, algorithms, and beyond, submitted, 2024.
 2. Hong T. M. Chu, <strong>Meixia Lin</strong><sup>*</sup>, and Kim-Chuan Toh, Wasserstein distributionally robust optimization and its tractable regularization formulations, submitted, 2024. (arXiv:2402.03942)
 3. Chengjing Wang, Peipei Tang<sup>*</sup>, Wenling He, and <strong>Meixia Lin</strong>, Learning the hub graphical model with the structured sparsity via an efficient algorithm, submitted, 2024. (arXiv:2308.08852)
 4. Yancheng Yuan<sup>+</sup>, <strong>Meixia Lin</strong><sup>+*</sup>, Defeng Sun, and Kim-Chuan Toh, Adaptive sieving: A dimension reduction technique for sparse optimization problems, submitted, 2023. (arXiv:2306.17369)
