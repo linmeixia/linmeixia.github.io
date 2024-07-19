@@ -24,7 +24,7 @@ nav: true
 
 <h4>Visiting Scholars</h4>
 
-1. Miss Mengjiao Shi, Visiting PhD Student from August 2024 -- February 2025, at Singapore University of Technology and Design, Singapore
+1. Miss Mengjiao Shi, Visiting PhD Student from Henan University, August 2024 -- February 2025, at Singapore University of Technology and Design, Singapore
 2. Associate Professor Sisi Zheng, Visiting Scholor from Huizhou University under the support of the Chinese Scholar Council (CSC), March 2024 -- January 2025, at Singapore University of Technology and Design, Singapore
 3. Mr Ziyang Zeng, Visiting Master Student from National University of Singapore, September 2023 -- September 2024, at Singapore University of Technology and Design, Singapore
 4. Mr Jiawei Gu, Visiting PhD Student from Nanjing University of Science and Technology, October 2023 -- April 2024, at Singapore University of Technology and Design, Singapore
