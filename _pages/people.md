@@ -15,7 +15,7 @@ nav: true
 
 <h4>Postdocs and Research Assistants</h4>
 
-1. Dr Wenhao Lu, Postdoc
+1. Dr Wenhao Lu, Postdoc, Oct 2024 --
 2. Dr Xiaoyu Dong, Postdoc, May 2024 --
 3. Mr Tirtho Sarker, Research Assistant, March 2024 --
 4. Dr Qian Zhang, Postdoc, September 2023 --
