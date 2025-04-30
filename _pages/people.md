@@ -10,15 +10,21 @@ nav: true
 
 <h4>Graduate Students</h4>
 
-1. Mr Zhihao Liu, PhD candidate at SUTD, September 2023 --
+1. Mr Wong Wei Jin Justin, STEP Master's student at SUTD, November 2024 --
+2. Mr Zhihao Liu, PhD candidate at SUTD, September 2023 --
 
 
 <h4>Postdocs and Research Assistants</h4>
 
-1. Dr Wenhao Lu, Postdoc, Oct 2024 --
-2. Dr Xiaoyu Dong, Postdoc, May 2024 --
-3. Mr Tirtho Sarker, Research Assistant, March 2024 --
-4. Dr Qian Zhang, Postdoc, September 2023 --
+1. Dr Yuexin Zhou, Postdoc, April 2025 --
+2. Mr Qirui Yang, Research Assistant, February 2025 --
+3. Dr Wenhao Lu, Postdoc, October 2024 --
+4. Dr. Bonan Hou, Research Assistant, October 2024 --
+5. Dr Xiaoyu Dong, Postdoc, May 2024 -- November 2024
+   
+   Current position: Lecturer, School of Mathematics, Statistics and Mechanics, Beijing Univerisity of Technology, China
+7. Mr Tirtho Sarker, Research Assistant, March 2024 -- February 2025
+8. Dr Qian Zhang, Postdoc, September 2023 -- 
 
 
 <h4>Visiting Scholars</h4>
