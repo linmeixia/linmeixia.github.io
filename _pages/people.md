@@ -20,11 +20,11 @@ nav: true
 2. Mr Qirui Yang, Research Assistant, February 2025 --
 3. Dr Wenhao Lu, Postdoc, October 2024 --
 4. Dr. Bonan Hou, Research Assistant, October 2024 --
-5. Dr Xiaoyu Dong, Postdoc, May 2024 -- November 2024
-   
-   Current position: Lecturer, School of Mathematics, Statistics and Mechanics, Beijing Univerisity of Technology, China
-7. Mr Tirtho Sarker, Research Assistant, March 2024 -- February 2025
-8. Dr Qian Zhang, Postdoc, September 2023 -- 
+5. Dr Xiaoyu Dong, Postdoc, May 2024 -- November 2024  
+   Current position: Lecturer, School of Mathematics, Statistics and Mechanics, Beijing University of Technology, China
+6. Mr Tirtho Sarker, Research Assistant, March 2024 -- February 2025
+7. Dr Qian Zhang, Postdoc, September 2023 --
+
 
 
 <h4>Visiting Scholars</h4>
